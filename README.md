@@ -1,2 +1,2 @@
-# web_programming
-Git Repo for BYU CS260
+# Sample Portfolio
+Sample project for BYU CS260 demoing a portfolio website.
